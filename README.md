@@ -11,3 +11,4 @@ This project is a web application for visualizing barbell plates and converting 
   * Built with React, TypeScript, SCSS
 
 ## Visuals
+Coming soon....
